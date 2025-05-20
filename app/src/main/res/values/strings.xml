@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Himba Vision</string>
+    <string name="brand_name">Himba</string>
+    <string name="tagline">Pioneering a New Era of Intelligent Contextually Aware Applications.</string>
+    <string name="brand_icon">Welcome to Himba Vision - Logo</string>
+    <string name="welcome_text">Welcome</string>
+
+    <string name="register_text">Register</string>
+    <string name="register_image">Register Image</string>
+    <string name="signIn_text">Sign-In</string>
+    <string name="signIn_image">Sign-In Image</string>
+
+    <string name="backArrow_contentDescription">Click to go back to welcome screen</string>
+
+    <string name="signInAndLoginSpeak">Speak to Register</string>
+    <string name="LoginSpeakAndSignIn">Speak to Sign-In</string>
+    <string name="signInAndLoginSpeakNextContent">Use the labels in the command, then say your username. For example, username: f,r,e,d,t,h,e,d,e,v.</string>
+    <string name="signInReactiveVoiceControl">Activate Voice Interaction</string>
+
+    <string name="inputFieldFullName">Full Name</string>
+    <string name="inputFieldPersonalEmail">Personal Email</string>
+    <string name="inputFieldEmergencyContact">Emergency Contact Email</string>
+    <string name="inputFieldPassword">Password</string>
+
+    <string name="inputFieldPasswordShowPassword">Show password</string>
+    <string name="inputFieldPasswordHidePassword">Hide password</string>
+
+    <string name="home_screen_findObject">Home</string>
+    <string name="EveryScreenIconDescription">Activate Voice Interaction</string>
+    <string name="LogOutDescription">Log Out</string>
+    <string name="homeScreenInputFieldObjectName">Object Name</string>
+    <string name="homeScreenInputFieldObjectText">Object Text</string>
+
+    <string name="nav_screen_findObject">Navigator</string>
+    <string name="navScreenFrom">Current Location</string>
+    <string name="navScreenTo">Destination</string>
+
+
+    <string name="ButtonAndExtraText">Create an Account</string>
+    <string name="ButtonAndExtraText_Text">To create an account using Reactive Voice Control say "Complete Account Creation"</string>
+
+    <string name="SignInButtonAndExtraText">Sign In</string>
+    <string name="SignInButtonAndExtraText_Text">To sign in using Reactive Voice Control say "Complete Sign-In"</string>
+
+    <string name="profile_screen">Profile</string>
+
+    <string name="google_maps_api_key">YOUR-API-KEY-HERE</string>
+
+
+</resources>

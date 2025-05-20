@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Splash Screen-->
+        <dimen name="Splash_Screen_logo_size">110dp</dimen>
+        <dimen name="Splash_Screen_brand_name_font_size">28sp</dimen>
+        <dimen name="Splash_Screen_tagline_padding_top">8dp</dimen>
+        <dimen name="Splash_Screen_tagline_padding_side">4dp</dimen>
+        <dimen name="Splash_Screen_tagline_font_size">14sp</dimen>
+    <!--Splash Screen End-->
+
+    <!--Welcome Screen-->
+        <dimen name="Welcome_Screen_TopAppBar_size">43dp</dimen>
+        <dimen name="Welcome_Screen_TopAppBar_spacer">15dp</dimen>
+        <dimen name="Welcome_Screen_RegisterSectionBox_padding">3dp</dimen>
+        <dimen name="Welcome_Screen_RegisterSectionBox_text">24sp</dimen>
+        <dimen name="Welcome_Screen_RegisterSectionBox_text_padding">8dp</dimen>
+        <dimen name="Welcome_Screen_SignInSectionBox_text">24sp</dimen>
+        <dimen name="Welcome_Screen_SignInSectionBox_text_padding">8dp</dimen>
+    <!--Welcome Screen End-->
+
+    <!--Register Screen-->
+        <dimen name="Register_Screen_TopAppBar_spacerWidth">4dp</dimen>
+        <dimen name="Register_Screen_TopAppBar_padding">0dp</dimen>
+
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_start">10dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_end">10dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_top">14dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_bottom">10dp</dimen>
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_spacer_height">28dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_text_fontSize">25sp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_row_topPadding">7dp</dimen>
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_row_text_fontSize">14sp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold2Column_row_text_lineHeight">14sp</dimen>
+
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold3Column_paddingTop">26dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold3Column_RowA">12dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold3Column_RowA_Text">17sp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold3Column_RowA_Spacer">16dp</dimen>
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold3Column_ColumnA">16dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold3Column_ColumnA_TFPadding">8dp</dimen>
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding">16dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_paddingstart">42dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_paddingtop">23dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_paddingend">42dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_paddingvertical">8dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_elevation">8dp</dimen>
+
+
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_text_size">18sp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_spacer_height">5dp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_end_text_fontSize">14sp</dimen>
+        <dimen name="Register_Screen_RegisterScreen_Scaffold4Column_Padding_Button_end_text_lineHeight">14sp</dimen>
+
+    <!--Register Screen End-->
+
+    <!--SignIn Screen-->
+
+    <dimen name="Login_Screen_TopAppBar_spacerWidth">4dp</dimen>
+    <dimen name="Login_Screen_TopAppBar_padding">0dp</dimen>
+
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_start">10dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_end">10dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_top">14dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_bottom">10dp</dimen>
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_spacer_height">28dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_text_fontSize">25sp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_row_topPadding">7dp</dimen>
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_row_text_fontSize">14sp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold2Column_row_text_lineHeight">14sp</dimen>
+
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold3Column_paddingTop">26dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold3Column_RowA">12dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold3Column_RowA_Text">17sp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold3Column_RowA_Spacer">16dp</dimen>
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold3Column_ColumnA">16dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold3Column_ColumnA_TFPadding">8dp</dimen>
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding">16dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_paddingstart">42dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_paddingtop">23dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_paddingend">42dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_paddingvertical">8dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_elevation">8dp</dimen>
+
+
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_text_size">18sp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_spacer_height">5dp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_end_text_fontSize">14sp</dimen>
+    <dimen name="Login_Screen_LoginScreen_Scaffold4Column_Padding_Button_end_text_lineHeight">14sp</dimen>
+
+    <!--SignIn Screen End-->
+
+
+    <!--Home Screen-->
+    <dimen name="Home_Screen_TopAppBar_spacerWidth">4dp</dimen>
+    <dimen name="Home_Screen_TopAppBar_padding">0dp</dimen>
+    <dimen name="Home_Screen_TextFields_TFPadding">8dp</dimen>
+
+    <!--Home Screen End-->
+
+
+</resources>
