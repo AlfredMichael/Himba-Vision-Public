@@ -33,11 +33,8 @@ To enable **panoptic segmentation**, follow these steps:
 🔹 A **stable internet connection** is required for seamless communication between the app and cloud resources for panoptic segmentation.  
 
 ## 🖼️ Himba Vision Images 
-```markdown
-![Panoptic Segmentation with Himba Vision](images/pan.jfif)
-```
-
-```markdown
-![Object Detection with Himba Vision](images/basic.jfif)
-```
+<p float="left">
+  <img src="images/pan.png" width="250" alt="Panoptic Segmentation with Himba Vision">
+  <img src="images/basic.png" width="250" alt="Object Detection with Himba Vision">
+</p>
 #
