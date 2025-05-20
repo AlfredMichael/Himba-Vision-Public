@@ -28,13 +28,22 @@ To enable **panoptic segmentation**, follow these steps:
 🔹 This will expose the **Kaggle/Colab notebook hardware resources** to the app for processing.  
 
 ## ⚙️ Notes  
-🔹 Contact me on success_fred@yahoo.com to test panoptic segmentation.
-🔹 Ensure you have the necessary dependencies installed in your environment.  
-🔹 A **stable internet connection** is required for seamless communication between the app and cloud resources for panoptic segmentation.  
+🔹 Ensure you have the necessary dependencies installed in your environment. 
+
+🔹 A **stable internet connection** is required for seamless communication between the app and cloud resources for panoptic segmentation. 
+
+🔹 If everything fails, contact me on success_fred@yahoo.com to test panoptic segmentation.
+
+## ❌ Issues
+🔹 Shadow Detection: Objects' shadows may sometimes be detected as actual objects.
+
+🔹 Performance Variability: Latency and local processing speed depend on your device's hardware
+
+
 
 ## 🖼️ Himba Vision Images 
 <p float="left">
-  <img src="images/pan.png" width="250" alt="Panoptic Segmentation with Himba Vision">
-  <img src="images/basic.png" width="250" alt="Object Detection with Himba Vision">
+  <img src="images/pan.png" width="400" alt="Panoptic Segmentation with Himba Vision">
+  <img src="images/basic.png" width="400" alt="Object Detection with Himba Vision">
 </p>
 #
