@@ -18,7 +18,7 @@ Himba Vision is an **Android-based assistive application** designed to enhance *
 3️ Run the application.  
 
 ### ⚠️ Troubleshooting  
-- If you encounter issues running the app, locate the **APK file** in the `build` directory and install it manually.  
+- If you encounter issues running the app, locate the **APK file** in the `release` directory and install it manually.  
 
 ## 🎭 Panoptic Segmentation Setup  
 To enable **panoptic segmentation**, follow these steps:  
