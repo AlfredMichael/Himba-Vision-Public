@@ -1,27 +1,43 @@
-# Project README
+# **Himba Vision** 🦾👁️  
+*A cost-effective visual assistance solution for visually impaired individuals*
 
-## Overview
-This project is designed to run on an actual Android device and utilizes the phone’s camera for core functionality. As a result, it **will not work on an emulator**.
+## 📌 Overview  
+Himba Vision is an **Android-based assistive application** designed to enhance **contextual awareness** for visually impaired individuals, enabling independent navigation. It leverages **computer vision technologies** to identify objects, read text, estimate distances, and provide spatial awareness—all in real time.
 
-## Installation & Running the App
-1. Load the project in **Android Studio**.
-2. Connect an **actual Android device** for deployment.
-3. Run the application.
+## 🔍 Key Features  
+✅ **Offline Object Detection** using **NanoDet**  
+✅ **Online Panoptic Segmentation** with **Detectron2’s Panoptic FPN**  
+✅ **Text Recognition & Speech Interaction** 🗣️  
+✅ **3x3 Grid Localization** for structured spatial awareness 📌  
+✅ **Monocular Distance Estimation** for object proximity detection 📏  
+✅ **Google Maps Integration** for geographical context 🗺️  
 
-### Troubleshooting
-- If you encounter difficulties running the app, search for the **APK file** in the `build` directory and install it manually on your device.
+## 📱 Installation & Running the App  
+1️ Load the project in **Android Studio**.  
+2️ Connect an **actual Android device** for deployment (❌ **No emulators**).  
+3️ Run the application.  
 
-## Panoptic Segmentation Setup
-To enable **panoptic segmentation**, follow these steps:
-1. Create a **premium Ngrok account**.
-2. Load the **Jupyter Notebook** found in the server-side logic.
-3. Replace the existing **Ngrok key** with your **premium Ngrok key**.
-4. This will expose the **Kaggle/Colab notebook hardware resources** to the app for processing.
+### ⚠️ Troubleshooting  
+- If you encounter issues running the app, locate the **APK file** in the `build` directory and install it manually.  
 
-## Notes
-The database structure can be fond in the database folder, but you dont have to worry about this as it would be hosted on firebase for a year, the database would be deleted in 2027
-if you are reading this in 2027, you would have to create the firebase database, storage and authentication structure to run the project.
+## 🎭 Panoptic Segmentation Setup  
+To enable **panoptic segmentation**, follow these steps:  
+🔹 Create a **premium Ngrok account**.  
+🔹 Load the **Jupyter Notebook** found in the server-side logic.  
+🔹 Replace the existing **Ngrok key** with your **premium Ngrok key**.  
+🔹 This will expose the **Kaggle/Colab notebook hardware resources** to the app for processing.  
 
-## Notes
-- Ensure you have the necessary dependencies installed in your environment.
-- A stable internet connection is required for seamless communication between the app and cloud resources for panoptic segmentation.
+## ⚙️ Notes  
+🔹 Contact me on success_fred@yahoo.com to test panoptic segmentation.
+🔹 Ensure you have the necessary dependencies installed in your environment.  
+🔹 A **stable internet connection** is required for seamless communication between the app and cloud resources for panoptic segmentation.  
+
+## 🖼️ Himba Vision Images 
+```markdown
+![Panoptic Segmentation with Himba Vision](images/pan.jfif)
+```
+
+```markdown
+![Object Detection with Himba Vision](images/basic.jfif)
+```
+#
